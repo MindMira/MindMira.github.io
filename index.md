@@ -6,42 +6,30 @@ callouts: home_callouts
 show_sidebar: true
 ---
 
-# Bulma Clean Theme demo website
+# MindMira: Empathetic Chatbot for Korean University Students
 
-This website showcases the options for the Bulma Clean theme. The theme is available as a ruby gem or can be used with GitHub pages. 
+MindMira is a psychological support chatbot designed to help Korean university students explore their emotions and thoughts in a safe, judgment-free environment. Our mission is to foster self-reflection and emotional awareness, addressing the unique social issues faced by students in Korea. We also provide legal counseling services for issues faced by Korean college students.
 
-[![Gem Version](https://badge.fury.io/rb/bulma-clean-theme.svg)](https://badge.fury.io/rb/bulma-clean-theme)
-![Gem](https://img.shields.io/gem/dt/bulma-clean-theme.svg)
-![GitHub Repo stars](https://img.shields.io/github/stars/chrisrhymes/bulma-clean-theme?style=social)
+## Key Features:
+- **Self-Reflection Focus:** Encourages understanding of personal emotions
+- **Culturally Relevant:** Incorporates insights specific to Korean society
+- **Anonymity Guaranteed:** Ensures a secure space for open dialogue
+- **Legal counseling support:** We provide counseling for legal issues that college students may face.
 
-## Ruby Gem
+## Tech Stack:
+- Python
+- Hugging Face
+- LangChain
+- Streamlit
 
-The ruby gem is available on the Ruby Gems website at the following location. [https://rubygems.org/gems/bulma-clean-theme](https://rubygems.org/gems/bulma-clean-theme).
+## Team:
+- Kim Kyungmin: Data Collection
+- Kim Sunjae & Lee Gaeun: Model Training
+- Cho Hyeju: UI Development
 
 ## Documentation
+For more details, check out the following link:
 
-For full instructions, please see the [Documentation](/bulma-clean-theme/docs/)
-
-## Page Layouts
-
-This demo site showcases the available page layout options. 
-
-* Sidebar
-* Menubar
-* Tabs
-* Footer
-* Hero
-* Contents
-* Landing Page With Callouts
-* Promo Page
-* Sponsors Page
-* Image Gallery
-* Recipe Page
-* Blog
-* Post
-
-## Supported By JetBrains
-
-JetBrains have kindly provided an Open Source licence to aid in the future development of Bulma Clean Theme.
-
-[![JetBrains](img/jetbrains-variant-4.svg)](https://www.jetbrains.com/?from=bulma-clean-theme)
+- [**Project Documentation (ReadTheDocs)**](https://mindmira.readthedocs.io/en/latest/)
+  
+Join us in making mental health support accessible and tailored for students!😊
