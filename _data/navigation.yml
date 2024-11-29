@@ -1,5 +1,7 @@
 - name: Docs
   link: /docs/
+- name: Community
+  link: /community/
 - name: Example Pages
   link: /#
   dropdown:

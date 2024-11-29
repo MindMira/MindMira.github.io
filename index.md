@@ -1,6 +1,6 @@
 ---
-title: Bulma Clean Theme
-subtitle: This is the demo site for Bulma Clean Theme
+title: MindMira
+subtitle: psychological counseling chatbot designed for Korean university students
 layout: page
 callouts: home_callouts
 show_sidebar: true
