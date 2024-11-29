@@ -6,30 +6,21 @@ callouts: home_callouts
 show_sidebar: true
 ---
 
-# MindMira: Empathetic Chatbot for Korean University Students
+# MindMira: Your AI Friend for Understanding Mental Well-Being
 
-MindMira is a psychological support chatbot designed to help Korean university students explore their emotions and thoughts in a safe, judgment-free environment. Our mission is to foster self-reflection and emotional awareness, addressing the unique social issues faced by students in Korea. We also provide legal counseling services for issues faced by Korean college students.
+Are you feeling overwhelmed by the stress and uncertainties of university life? MindMira is here for you.
 
-## Key Features:
-- **Self-Reflection Focus:** Encourages understanding of personal emotions
-- **Culturally Relevant:** Incorporates insights specific to Korean society
-- **Anonymity Guaranteed:** Ensures a secure space for open dialogue
-- **Legal counseling support:** We provide counseling for legal issues that college students may face.
+MindMira is an empathetic chatbot designed to deeply understand and resonate with the emotions of Korean university students. We reflect the unique challenges you face, such as academic pressure, job search anxiety, and interpersonal conflicts, providing a warm and supportive space for conversation.
 
-## Tech Stack:
-- Python
-- Hugging Face
-- LangChain
-- Streamlit
+## Features:
 
-## Team:
-- Kim Kyungmin: Data Collection
-- Kim Sunjae & Lee Gaeun: Model Training
-- Cho Hyeju: UI Development
+- **Safe Conversations:** Enjoy the comfort of anonymity while sharing your thoughts and feelings.
+- **Culturally Relevant Support:** Receive tailored guidance that reflects the realities of student life in Korea.
+- **Self-Reflection:** Engage in a journey of self-discovery by exploring your emotions and thoughts.
+- **Legal Counseling:** Access advice on legal issues that may arise during your college experience.
 
-## Documentation
-For more details, check out the following link:
+With MindMira, you are never alone. We are committed to enhancing the mental health and well-being of Korean university students. Your stories matter, and MindMira is here to listen.
 
 - [**Project Documentation (ReadTheDocs)**](https://mindmira.readthedocs.io/en/latest/)
-  
-Join us in making mental health support accessible and tailored for students!😊
+
+Join us in fostering a healthier university culture—MindMira is with you every step of the way.
