@@ -1,0 +1,22 @@
+style: is-light
+height: is-medium
+items:
+  - title: Mail
+    icon: fa-envelope
+    description: >
+      If you have any inquiries, please send us an email.
+    call_to_action_name: Contact us
+    call_to_action_link: support@mindmira.com 
+  - title: Github Discussions
+    icon: fa-github
+    icon_brand: true
+    description: >
+      If you have any feedback, please join the GitHub discussion.
+    call_to_action_name: Join us
+    call_to_action_link: https://github.com/MindMira/MindMira/discussions
+  - title: Discord
+    icon: fa-comments
+    description: >
+      If you have any feedback, please join the Discord chat.
+    call_to_action_name: Join us
+    call_to_action_link: https://discord.com/

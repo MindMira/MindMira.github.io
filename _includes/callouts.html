@@ -1,5 +1,5 @@
 {% if page.callouts %}
-    {% assign callouts=site.data.[page.callouts] %}
+    {% assign callouts = site.data[page.callouts] %}
     <section class="hero {% if callouts.height %} {{ callouts.height }} {% else %} is-medium {% endif %} {{ callouts.style }}">
         <div class="hero-body">
             <div class="container">
@@ -28,12 +28,15 @@
 
                             {% if callout.call_to_action_name %}
                                 <div class="my-4">
-                                    <a
-                                        href="{{ callout.call_to_action_link | relative_url }}"
-                                        class="button is-primary"
-                                    >
-                                        {{ callout.call_to_action_name }}
-                                    </a>
+                                    {% if callout.call_to_action_name == "Contact us" %}
+                                        <a href="mailto:{{ callout.call_to_action_link }}" class="button is-primary">
+                                            {{ callout.call_to_action_name }}
+                                        </a>
+                                    {% else %}
+                                        <a href="{{ callout.call_to_action_link }}" class="button is-primary">
+                                            {{ callout.call_to_action_name }}
+                                        </a>
+                                    {% endif %}
                                 </div>
                             {% endif %}
                         </div>
