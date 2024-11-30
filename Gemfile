@@ -11,3 +11,5 @@ group :jekyll_plugins do
     gem 'jekyll-redirect-from'
 end
 
+gem 'wdm', '>= 0.1.0'
+
