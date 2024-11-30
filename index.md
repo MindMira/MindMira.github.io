@@ -3,7 +3,7 @@ title: MindMira
 subtitle: psychological counseling chatbot designed for Korean university students
 layout: page
 callouts: home_callouts
-show_sidebar: true
+show_sidebar: false
 ---
 
 # MindMira: Your AI Friend for Understanding Mental Well-Being
