@@ -1,6 +1,6 @@
 .showcase {
     margin-bottom: 3rem;
-    box-shadow: $box-shadow;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15); // 수정
 
     &-content {
         padding: 1.5rem;
