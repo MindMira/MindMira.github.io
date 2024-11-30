@@ -16,6 +16,8 @@ permalink: pretty
 #direction: one of <ltr, rtl, auto>, default: ltr
 force_theme: light
 
+remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
+
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
