@@ -11,8 +11,6 @@ $modal-content-width: 800px;
 
 @import "../node_modules/bulma/sass";
 @import "../node_modules/bulma/sass/utilities/mixins";
-
-$dark: #000000;
 $hero-darken: $dark !default;
 
 @import "layout";
