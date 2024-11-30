@@ -1,12 +1,12 @@
 style: is-light
 items:
-  - title: Multiple page layouts
-    subtitle: Including sidebar, menubar, tabs and callouts
-    icon: fa-copy
-  - title: Blog included
-    subtitle: Layouts for blog and post pages included
-    icon: fa-mail-bulk
-  - title: Works with GitHub Pages
-    subtitle: Quick and easy to get started
-    icon: fa-github
+  - title: Self-Reflection Focus
+    subtitle: Encourages understanding and exploration of personal emotions
+    icon: fa-face-smile
+  - title: Culturally Relevant
+    subtitle: Provides insights specific to Korean society
+    icon: fa-globe
+  - title: Anonymity Guaranteed
+    subtitle: Provides a safe space for open dialogue
+    icon: fa-shield-halved
     icon_brand: true
