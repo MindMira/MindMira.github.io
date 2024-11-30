@@ -1,14 +1,9 @@
 # frozen_string_literal: true
 
 source "https://rubygems.org"
-gemspec
 
-gem 'csv'
-gem 'base64'
-gem 'bigdecimal'
-gem 'wdm', '>= 0.1.0' if Gem.win_platform?
-gem 'faraday-retry'
-gem 'github-pages', '~> 218', group: :jekyll_plugins
+gem "jekyll", "~> 4.3"
+gem "bulma-clean-theme",  '1.0.0'
 
 
 group :jekyll_plugins do
